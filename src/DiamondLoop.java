@@ -2,7 +2,7 @@
  Creator: Hamid Majeed
  11/08/2017
  hm2123@email.vccs.edu
- The purpose of this program is to loop to solve math problems
+ The purpose is to out every odd number till 100 using ForLoop and every even number using the do While loop and outputing a diamond 
  */
 
 public class DiamondLoop {
