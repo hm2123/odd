@@ -1,4 +1,4 @@
-public class DoWhile extends ForLoop {
+public class Even {
     public static void main(String[] args) {
 
         int i = 0;
